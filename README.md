@@ -39,4 +39,4 @@
   - ```docker run -d -p 8080:8080 --name client-teste --network minha-rede minorugondo/client```
   
  
-- Agora é só abrir o navegador no endereço: ```localhost:8080```
+- Agora é só abrir o navegador no endereço: ```localhost:8080``` e fazer login;
